@@ -26,4 +26,4 @@ It was created with React, Redux, Firebase, Styled Components.
 
 ## License
 
-This project is open source.
+This project is open source and available under the [MIT License](LICENSE.md).
